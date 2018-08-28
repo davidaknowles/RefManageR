@@ -160,7 +160,7 @@ Cite <- function(bib, ..., textual = FALSE, before = NULL, after = NULL,
                                                    longnamesfirst)){
                 authors <- authors[seq_len(max.names)]
                 authors[length(authors)] <- paste0(authors[length(authors)],
-                                                   ", et al.")
+                                                   " et al.")
               }else{
                 if (length(authors) > 1L)
                   authors[length(authors)] <- paste("and",
