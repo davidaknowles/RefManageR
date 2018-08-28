@@ -8,6 +8,8 @@ RefManageR
 [![](https://ropensci.org/badges/120_status.svg)](https://github.com/ropensci/onboarding/issues/119)
 [![](http://joss.theoj.org/papers/10.21105/joss.00338/status.svg)](http://joss.theoj.org/papers/10.21105/joss.00338)
 
+This fork changes e.g. `Doe, et al. 2012` to `Doe et al. 2012`. 
+
 `RefManageR` provides tools for importing and working with
 bibliographic references.  It greatly enhances the `bibentry` class by
 providing a class `BibEntry` which stores `BibTeX` and `BibLaTeX` references,
